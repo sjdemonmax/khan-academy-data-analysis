@@ -1,8 +1,8 @@
-### khan-academy-data-analysis
+# Khan-Academy-Data-Analysis
 The objective of this project is to build a scalable and automated data pipeline for Khan Academy to monitor student performance on reading fluency tests. By synthesizing student registration data, attempt logs, and performance metrics with school-level administrative records, I aim to provide actionable insights through consolidated and school-specific trackers.
 
 The following is the flow of this project:
-## Key Highlights of the Submission:
+# Key Highlights of the Submission:
 
 1. **Data Pipeline:** Automated ingestion and transformation of the provided datasets using Python and Pandas.  
 
